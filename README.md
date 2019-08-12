@@ -1,6 +1,8 @@
-# httpdata
+# httpjsondata
 
 A new Flutter project.
+
+It is very similar to local access JSON data. In this access the Json Data from a particular URL. This is Flutter project.
 
 ## Getting Started
 
